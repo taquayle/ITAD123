@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assign_05_01 - Paycheck", "Assign_05_01 - Paycheck\Assign_05_01 - Paycheck.vcxproj", "{2A9FB264-15BA-4F59-A496-F07FB93C34EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A9FB264-15BA-4F59-A496-F07FB93C34EB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2A9FB264-15BA-4F59-A496-F07FB93C34EB}.Debug|Win32.Build.0 = Debug|Win32
+		{2A9FB264-15BA-4F59-A496-F07FB93C34EB}.Release|Win32.ActiveCfg = Release|Win32
+		{2A9FB264-15BA-4F59-A496-F07FB93C34EB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
